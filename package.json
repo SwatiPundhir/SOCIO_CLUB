@@ -1,5 +1,6 @@
 {
   "name": "nft-market",
+  "homepage": "https://SwatiPundhir.github.io/SOCIO_CLUB",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,6 +20,7 @@
     "date-fns": "^2.28.0",
     "emailjs-com": "^3.2.0",
     "fs": "^0.0.1-security",
+    "gh-pages": "^4.0.0",
     "nodemailer": "^6.7.5",
     "react": "^17.0.2",
     "react-alert": "^7.0.3",
