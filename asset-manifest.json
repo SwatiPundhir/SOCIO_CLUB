@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/SOCIO_CLUB/static/css/main.94b510c6.css",
+    "main.js": "/SOCIO_CLUB/static/js/main.1256182c.js",
+    "static/media/banner_image.webp": "/SOCIO_CLUB/static/media/banner_image.505da17445e892676aa5.webp",
+    "static/media/Memes.webp": "/SOCIO_CLUB/static/media/Memes.fcdad5bdedd28b4b3ddd.webp",
+    "static/media/Contest.webp": "/SOCIO_CLUB/static/media/Contest.312abce361677ba85200.webp",
+    "static/media/prizepodium.webp": "/SOCIO_CLUB/static/media/prizepodium.68f459891ea3a55bba88.webp",
+    "static/media/audiobook.webp": "/SOCIO_CLUB/static/media/audiobook.6c4892bfb284cb95b780.webp",
+    "static/media/digital.webp": "/SOCIO_CLUB/static/media/digital.ff3d2b487cc452221cd0.webp",
+    "static/media/shopping-cart.webp": "/SOCIO_CLUB/static/media/shopping-cart.39d4e2d272bc8be64755.webp",
+    "static/media/news.webp": "/SOCIO_CLUB/static/media/news.6307aaee4e958444d122.webp",
+    "static/media/logo.png": "/SOCIO_CLUB/static/media/logo.e34344d57bfe6b8b4fb9.png",
+    "static/media/cryptocurrency.webp": "/SOCIO_CLUB/static/media/cryptocurrency.2a5e9b524b94b60785ad.webp",
+    "static/media/game-console.webp": "/SOCIO_CLUB/static/media/game-console.40037797fae162340075.webp",
+    "static/media/lotus.webp": "/SOCIO_CLUB/static/media/lotus.2c5acdb6ac0d01a792a8.webp",
+    "static/media/anonymous.webp": "/SOCIO_CLUB/static/media/anonymous.f3771cd2c35e42aff16e.webp",
+    "static/media/quiz.webp": "/SOCIO_CLUB/static/media/quiz.1eebda915530ef4f938c.webp",
+    "static/media/TruenoBd.woff": "/SOCIO_CLUB/static/media/TruenoBd.7da08d6a8c0e62aba929.woff",
+    "static/media/chatbot.webp": "/SOCIO_CLUB/static/media/chatbot.d33c7b6da72a8c5cbcd6.webp",
+    "static/media/fitness.webp": "/SOCIO_CLUB/static/media/fitness.4156f1005bd739a519ca.webp",
+    "static/media/radio.webp": "/SOCIO_CLUB/static/media/radio.8e739cfe50c14bb2e063.webp",
+    "static/media/music-note.webp": "/SOCIO_CLUB/static/media/music-note.42a2dba49fbcdd929fd9.webp",
+    "static/media/audio-book.webp": "/SOCIO_CLUB/static/media/audio-book.e44bb99bd29137ed1b50.webp",
+    "static/media/movie.webp": "/SOCIO_CLUB/static/media/movie.4e2cf393a26dcf21156c.webp",
+    "index.html": "/SOCIO_CLUB/index.html",
+    "static/media/live.webp": "/SOCIO_CLUB/static/media/live.bf166ac1ee2657c9b741.webp",
+    "static/media/slick.svg": "/SOCIO_CLUB/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SOCIO_CLUB/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SOCIO_CLUB/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SOCIO_CLUB/static/media/slick.295183786cd8a1389865.woff",
+    "main.94b510c6.css.map": "/SOCIO_CLUB/static/css/main.94b510c6.css.map",
+    "main.1256182c.js.map": "/SOCIO_CLUB/static/js/main.1256182c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b510c6.css",
+    "static/js/main.1256182c.js"
+  ]
+}
